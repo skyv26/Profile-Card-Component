@@ -17,7 +17,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![design](desktop-design.jpg)
+![design](./desktop-design.jpg)
 
 
 ### Links
