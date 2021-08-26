@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
 
+
 :root {
   --dark-cyan: hsl(185, 75%, 39%);
   --dark-blue: hsl(229, 23%, 23%);
@@ -19,11 +20,12 @@ html {
 }
 
 body {
+    max-width: 1440px;
     min-height: 100vh;
-    background: url(/images/bg-pattern-top.svg) bottom 30vh right 52vw, url(/images/bg-pattern-bottom.svg) top 50vh left 45vw, var(--dark-cyan); 
+    background: url(/images/bg-pattern-top.svg) bottom 25vh right 50vw, url(/images/bg-pattern-bottom.svg) top 52vh left 48vw, var(--dark-cyan); 
+    background-size: 1440px 1440px;
     background-repeat: no-repeat;
 }
-
 .ruler {
    width: 100vw;
    height: 100vh;
@@ -79,7 +81,7 @@ body {
     grid-row: 6 / 13;
     width: 100%;
     height: 100%;
-    border: 0.5rem solid white;
+    border: 1rem solid white;
     border-radius: 50%;
 }
 
@@ -102,19 +104,19 @@ body {
 }
 
 .person-name {
-    font-size: 1.8rem;
+    font-size: 2.8em;
     color: var(--dark-blue);
     font-weight: 700;
     text-shadow: 0px 0px 2px var(--dark-blue);
 }
 
 .person-age {
-    font-size: 1.8rem;
+    font-size: 2.8em;
     color: var(--dark-gray);
 }
 
 .city {
-    font-size: 1.2rem;
+    font-size: 2em;
     color: var(--dark-gray);
 }
 
@@ -135,7 +137,7 @@ body {
 .text {
     text-align: center;
     color: var(--dark-blue);
-    font-size: 1.6rem;
+    font-size: 2.8em;
     font-family: var(--font-name), sans-serif;
     line-height: 1;
     text-shadow: 0px 0px 2px var(--dark-blue);
@@ -143,7 +145,7 @@ body {
 }
 
 .text span {
-    font-size: 0.7rem;
+    font-size: 0.5em;
     letter-spacing: 0.2rem;
     font-weight: normal;
     color: var(--dark-gray);
@@ -172,17 +174,18 @@ body {
   color: hsl(228, 45%, 44%);
 } */
 
-@media (min-width: 1400px){
-    html {
-        font-size: 80%;
+@media (max-width: 1366px){
+    body{
+        max-width: 1440px;
+    min-height: 100vh;
+    background: url(/images/bg-pattern-top.svg) bottom 35vh right 52vw, url(/images/bg-pattern-bottom.svg) top 55vh left 50vw, var(--dark-cyan); 
+    background-size: 800px 800px;
+    background-repeat: no-repeat;
     }
-    body {
-        background: url(/images/bg-pattern-top.svg) bottom 50vh right 50vw, url(/images/bg-pattern-bottom.svg) top 50vh left 50vw, var(--dark-cyan);
-        background-repeat: no-repeat;
-    }
+    
     .card {
         grid-column: 15 / 25;
-        grid-row: 7 / 20;
+        grid-row: 8 / 25;
         border-radius: 1.5rem;
         width: 100%;
         height: 100%;
@@ -191,6 +194,64 @@ body {
         display: grid;
         grid-template-columns: repeat(24,1fr);
         grid-template-rows: repeat(24, 1fr);
+    }
+
+    .logo-img {
+        grid-column: 9 / 17;
+        grid-row: 6 / 14;
+        width: 100%;
+        height: 100%;
+        border: 0.75rem solid white;
+        border-radius: 50%;
+    }
+    .info {
+        grid-column: 1 / -1;
+        grid-row: 15 / 19;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        font-family: var(--font-name), sans-serif;
+        gap: 1rem;
+    }
+    .person-name {
+        font-size: 2em;
+        color: var(--dark-blue);
+        font-weight: 700;
+        text-shadow: 0px 0px 2px var(--dark-blue);
+    }
+    
+    .person-age {
+        font-size: 2em;
+        color: var(--dark-gray);
+    }
+    
+    .city {
+        font-size: 1.6em;
+        color: var(--dark-gray);
+    }
+
+    .social-status {
+        grid-row: 20 / -1;
+    }
+    
+    .text {
+        text-align: center;
+        color: var(--dark-blue);
+        font-size: 1.8em;
+        font-family: var(--font-name), sans-serif;
+        line-height: 1;
+        text-shadow: 0px 0px 2px var(--dark-blue);
+        font-weight: bold;
+    }
+    
+    .text span {
+        font-size: 0.5em;
+        letter-spacing: 0.2rem;
+        font-weight: normal;
+        color: var(--dark-gray);
+        text-shadow: 0px 0px 0px var(--dark-blue);
+    
     }
 }
 
