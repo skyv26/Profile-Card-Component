@@ -75,7 +75,7 @@ For more information on the importance of a professional README for your reposit
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Profile Card Component</b></h3>
 
 </div>
 
@@ -181,14 +181,10 @@ Example command:
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  cd DESIRED_FOLDER
+  git clone https://github.com/skyv26/Profile-Card-Component
 ```
---->
 
 ### Install
 
