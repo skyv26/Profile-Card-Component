@@ -42,7 +42,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="./design/desktop-design.jpg" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Profile Card Component</b></h3>
