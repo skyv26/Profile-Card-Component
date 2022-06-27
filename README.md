@@ -104,9 +104,9 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Profile Card Component <a name="about-project"></a>
 
-**[your_project__name]** is a...
+**Profile card component** is a vanilla js based project.
 
 ## 🛠 Built With <a name="built-with"></a>
 
