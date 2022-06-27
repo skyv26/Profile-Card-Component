@@ -36,9 +36,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- LinkedIn - [Aakash Verma](https://www.linkedin.com/in/devaakash/)
-- Frontend Mentor - [@skyv26](https://www.frontendmentor.io/profile/skyv26)
-- Github - [@skyv26](https://github.com/skyv26)
+
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
@@ -202,19 +200,11 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Aakash Verma**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn - [Aakash Verma](https://www.linkedin.com/in/skyv2022/)
+- Frontend Mentor - [@skyv26](https://www.frontendmentor.io/profile/skyv26)
+- Github - [@skyv26](https://github.com/skyv26)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
