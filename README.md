@@ -61,7 +61,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
   - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
   - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
@@ -167,18 +166,6 @@ Example command:
 
 ```sh
   rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
 ```
 --->
 
