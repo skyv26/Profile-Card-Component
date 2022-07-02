@@ -159,15 +159,10 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
 ```
---->
+Please use the VSCode and with the help of live
+server extension run it directly.
+```
 
 ### Deployment
 
