@@ -34,10 +34,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 
 
-## Author
-
-
-
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="./design/desktop-design.jpg" alt="logo" width="140"  height="auto" />
@@ -98,9 +94,11 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **Semantic HTML5 markup**
+- **CSS custom properties**
+- **Flexbox**
+- **CSS Grid**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
