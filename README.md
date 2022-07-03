@@ -59,7 +59,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
-  - [Install](#install)
   - [Usage](#usage)
   - [Deployment](#deployment)
 - [👥 Authors](#authors)
@@ -143,19 +142,6 @@ Clone this repository to your desired folder:
   cd DESIRED_FOLDER
   git clone https://github.com/skyv26/Profile-Card-Component
 ```
-
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
 
 ### Usage
 
