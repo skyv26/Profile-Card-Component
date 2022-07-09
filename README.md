@@ -104,7 +104,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://google.com)
+- [Live Project](https://profile-component-3.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
