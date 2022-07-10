@@ -1,7 +1,3 @@
-### The challenge
-
-- This is #3 Frontend Challenge, named as **Profile Card Component**. I am trying to improve my design skills.
-
 ### Screenshot
 
 ![Image](./design/desktop-design.jpg)
