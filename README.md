@@ -1,12 +1,3 @@
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
-- [Author](#author)
-
 ### The challenge
 
 - This is #3 Frontend Challenge, named as **Profile Card Component**. I am trying to improve my design skills.
