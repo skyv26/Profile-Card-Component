@@ -1,22 +1,3 @@
-### Screenshot
-
-![Image](./design/desktop-design.jpg)
-
-
-### Links
-
-- Solution URL: [Add solution URL here](https://github.com/skyv26/Profile-Card-Component)
-- Live Site URL: [Add live site URL here](https://profile-component-3.netlify.app/)
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-
-
-
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="./design/desktop-design.jpg" alt="logo" width="140"  height="auto" />
